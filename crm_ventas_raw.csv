@@ -1,0 +1,501 @@
+ID_Oportunidad,ID_Cliente,Vendedor,Producto,Monto,Etapa,Probabilidad,Fecha_Creacion_Oportunidad,Fecha_Cierre_Real
+c1836315,10f1bc81,Matias A.,Placas,18343.91,Cerrado Perdido,0,2025-09-05,2025-12-05
+0f25477d,26c432f6,Salvador T.,Terminado,11850.02,Prospecto,20,2025-05-13,
+88ffbd40,9ea556aa,Carlos M.,Terminado,23157.75,Cerrado Ganado,100,2024-10-27,2024-11-22
+6afa828c,a2b5b498,Matias A.,Re-Trabajo,19009.62,Análisis,40,2025-03-27,
+ff46a6bf,7de31a51,Ana P.,Maquinado,1741.64,Propuesta,60,2024-11-25,
+2fb21e66,c1581092,Matias A.,Placas,42525.57,Análisis,40,2025-11-03,
+4c636e95,e238fe93,Salvador T.,Re-Trabajo,8174.83,Cerrado Ganado,100,2025-01-06,2025-04-09
+fba57cc8,b4fb0eb9,Matias A.,Maquinado,33815.52,Cerrado Ganado,100,2025-10-16,2025-12-24
+a42d0cd7,57eb89b1,Carlos M.,Placas,38184.39,Cerrado Perdido,0,2024-10-23,2024-12-07
+f0458043,658b2523,Sofial L.,Maquinado,5085.28,Cerrado Ganado,100,2025-04-10,2025-06-20
+45d8a6ad,4882d73c,Sofial L.,Terminado,18281.14,Cerrado Ganado,100,2025-02-05,2025-04-30
+2999394c,4ec3f970,Salvador T.,Terminado,37502.87,Propuesta,60,2024-05-06,
+2faabe0b,10f1bc81,Matias A.,Maquinado,18068.05,Cerrado Ganado,100,2025-08-23,2025-12-21
+4b86b5a1,f84f16b3,Carlos M.,Maquinado,5979.06,Análisis,40,2025-06-29,
+2ced3c0d,4f199ec0,Carlos M.,Placas,20087.72,Negociación,80,2025-06-19,
+67ce378f,f758dce2,Salvador T.,Terminado,12094.17,Cerrado Perdido,0,2025-05-11,2025-05-19
+1634725b,311c6eb6,Sofial L.,Re-Trabajo,37181.19,Cerrado Ganado,100,2025-11-01,2026-02-01
+fb4fb88a,b4fb0eb9,Salvador T.,Placas,9241.22,Cerrado Perdido,0,2025-09-13,2025-10-05
+3f800385,26c432f6,Sofial L.,Maquinado,13356.74,Cerrado Perdido,0,2025-03-17,2025-05-19
+725d4259,a65e688e,Ana P.,Re-Trabajo,19432.62,Análisis,40,2025-10-28,
+951c25d5,57021049,Carlos M.,Re-Trabajo,33291.3,Cerrado Perdido,0,2025-10-25,2025-11-25
+a757cb10,a7a8f636,Salvador T.,Maquinado,28520.93,Cerrado Ganado,100,2025-11-02,2026-01-31
+aaf407f7,d918b3e5,Ana P.,Terminado,11563.84,Cerrado Ganado,100,2025-09-25,2025-12-20
+67c96204,658b2523,Carlos M.,Placas,24823.18,Cerrado Perdido,0,2024-05-15,2024-08-15
+b41c504f,a4244f23,Carlos M.,Terminado,32578.45,Cerrado Ganado,100,2025-11-06,2026-01-01
+a38295d3,20a04502,Salvador T.,Placas,21300.73,Prospecto,20,2025-11-15,
+3818cfd3,546e035a,Carlos M.,Re-Trabajo,5038.11,Cerrado Ganado,100,2025-04-24,2025-06-18
+bf6b8cdf,ff4625af,Salvador T.,Re-Trabajo,43422.01,Cerrado Perdido,0,2025-08-09,2025-12-01
+8c9aa1e9,d605e770,Matias A.,Re-Trabajo,39233.93,Cerrado Ganado,100,2025-10-16,2026-02-05
+aa0217d0,ee49f329,Matias A.,Maquinado,44423.75,Cerrado Ganado,100,2025-06-28,2025-09-30
+ae2ae341,759cde66,Carlos M.,Maquinado,37483.6,Cerrado Ganado,100,2025-09-27,2025-10-29
+b42a0456,ab61a7b1,Matias A.,Terminado,23185.94,Cerrado Perdido,0,2025-06-04,2025-07-30
+1cb9b73a,c51155ff,Carlos M.,Terminado,5460.85,Cerrado Perdido,0,2025-05-20,2025-07-04
+8167999f,507b9072,Sofial L.,Re-Trabajo,26965.75,Negociación,80,2025-09-22,
+2a1f1b61,314d3441,Sofial L.,Maquinado,27791.85,Cerrado Perdido,0,2025-07-05,2025-08-15
+1dc1e7eb,a4244f23,Matias A.,Re-Trabajo,1663.91,Cerrado Ganado,100,2025-06-23,2025-07-03
+7d23d479,c1581092,Sofial L.,Terminado,46279.29,Propuesta,60,2025-07-05,
+cf0671c7,e238fe93,Carlos M.,Re-Trabajo,16035.02,Cerrado Perdido,0,2024-08-05,2024-10-10
+6a5943ce,c73f6e1b,Salvador T.,Placas,32117.6,Cerrado Perdido,0,2024-10-16,2024-12-31
+765e6cb5,ff4625af,Carlos M.,Maquinado,21047.67,Análisis,40,2025-10-11,
+0592bfa5,1933918c,Carlos M.,Terminado,2267.66,Cerrado Ganado,100,2025-06-30,2025-09-07
+beed0af9,62fb26d7,Matias A.,Placas,17630.34,Cerrado Perdido,0,2025-06-08,2025-09-25
+6c776e95,750cab75,Ana P.,Placas,16743.36,Cerrado Ganado,100,2025-09-23,2025-11-06
+fe7ee362,4806f804,Carlos M.,Placas,37004.76,Análisis,40,2025-03-30,
+fc737d92,57eb89b1,Sofial L.,Placas,32897.94,Cerrado Perdido,0,2024-03-23,2024-06-27
+2e13418d,66d06371,Sofial L.,Maquinado,49881.58,Propuesta,60,2025-09-08,
+bab2b77d,a7a8f636,Ana P.,Maquinado,49159.29,Cerrado Ganado,100,2024-08-03,2024-11-07
+fe2bd987,5fbbf0b1,Carlos M.,Placas,11038.56,Cerrado Ganado,100,2025-10-24,2025-12-13
+e821e716,4806f804,Sofial L.,Re-Trabajo,24592.28,Propuesta,60,2025-04-29,
+f6d22a7b,b00805cc,Salvador T.,Terminado,2601.85,Cerrado Perdido,0,2025-06-27,2025-08-03
+a74e02a9,311c6eb6,Carlos M.,Maquinado,25078.99,Cerrado Perdido,0,2025-06-26,2025-10-02
+8989c5ab,4806f804,Carlos M.,Maquinado,42298.14,Prospecto,20,2025-04-02,
+fa8dae42,e8dd5e5a,Matias A.,Terminado,37343.86,Prospecto,20,2025-08-24,
+05d1fb63,9c96e9ec,Salvador T.,Terminado,12249.54,Cerrado Ganado,100,2024-11-26,2025-02-27
+8b60c511,bb026576,Salvador T.,Placas,23752.63,Cerrado Ganado,100,2024-09-13,2024-12-06
+3acb43a3,458f1f19,Salvador T.,Terminado,40379.95,Cerrado Perdido,0,2025-10-12,2025-12-14
+4690fb15,9c96e9ec,Matias A.,Maquinado,49045.34,Cerrado Ganado,100,2024-12-16,2025-02-24
+c3f725fe,faebcd19,Carlos M.,Re-Trabajo,36379.3,Propuesta,60,2024-11-15,
+6b535a19,faebcd19,Carlos M.,Re-Trabajo,47995.33,Prospecto,20,2024-09-17,
+e39836bb,49e2623d,Salvador T.,Maquinado,33171.76,Prospecto,20,2025-09-09,
+19d45deb,4f199ec0,Matias A.,Maquinado,1492.69,Cerrado Perdido,0,2024-11-17,2025-02-19
+ac09bdb7,4d85e9c7,Matias A.,Placas,11506.27,Cerrado Perdido,0,2025-11-20,2025-12-24
+66fadca0,de8a774b,Ana P.,Re-Trabajo,13909.33,Cerrado Perdido,0,2024-07-24,2024-10-08
+c11f6bf5,6fa17735,Carlos M.,Re-Trabajo,21601.31,Cerrado Ganado,100,2025-08-12,2025-08-23
+4a0d2b73,bbf483ce,Salvador T.,Terminado,35295.61,Cerrado Perdido,0,2024-11-26,2025-01-30
+937bf79b,734a6ca3,Sofial L.,Terminado,8376.28,Cerrado Ganado,100,2025-04-01,2025-06-08
+ac2b0cfc,4ec3f970,Salvador T.,Re-Trabajo,40599.28,Cerrado Perdido,0,2024-08-12,2024-10-15
+24acb722,67814c1f,Matias A.,Maquinado,1226.0,Cerrado Perdido,0,2025-01-11,2025-02-18
+4ceda164,4882d73c,Sofial L.,Terminado,11942.41,Cerrado Perdido,0,2025-08-28,2025-09-28
+97777f10,49e2623d,Ana P.,Placas,32474.19,Prospecto,20,2024-12-19,
+8e4c3ab5,2369b584,Ana P.,Terminado,15038.41,Propuesta,60,2024-12-29,
+f10bce9c,4d85e9c7,Ana P.,Placas,47589.73,Cerrado Ganado,100,2025-10-13,2025-11-22
+86433603,a0d572c8,Matias A.,Placas,7057.48,Cerrado Perdido,0,2025-05-11,2025-06-11
+26332018,26c432f6,Salvador T.,Maquinado,12418.0,Cerrado Ganado,100,2025-05-25,2025-06-15
+89b5aab0,8c7e6f42,Sofial L.,Maquinado,47179.74,Cerrado Perdido,0,2025-06-12,2025-08-08
+4cfd0fc1,10f1bc81,Sofial L.,Re-Trabajo,39357.21,Cerrado Ganado,100,2025-09-03,2025-09-13
+ea2c7a51,20a04502,Carlos M.,Placas,17740.81,Análisis,40,2025-11-03,
+6aa0426d,bdab07e7,Salvador T.,Re-Trabajo,43937.36,Propuesta,60,2025-11-20,
+3e2bf9c9,66d06371,Salvador T.,Re-Trabajo,21984.36,Cerrado Ganado,100,2025-10-11,2025-12-11
+143df5b3,cdbcc653,Salvador T.,Placas,46210.7,Propuesta,60,2025-07-12,
+891f6912,546e035a,Carlos M.,Maquinado,6693.23,Prospecto,20,2025-06-23,
+ac75c344,7227890e,Ana P.,Maquinado,41017.27,Prospecto,20,2025-07-17,
+12a1fe7d,311c6eb6,Matias A.,Re-Trabajo,35025.19,Cerrado Ganado,100,2025-05-12,2025-07-26
+b96c1163,bdab07e7,Carlos M.,Re-Trabajo,6977.22,Cerrado Perdido,0,2025-11-21,2026-02-22
+3579c143,57eb89b1,Carlos M.,Maquinado,4470.07,Cerrado Ganado,100,2025-07-11,2025-09-05
+03ece8ff,248d31ec,Carlos M.,Placas,1992.85,Cerrado Perdido,0,2024-11-23,2025-03-02
+bdd151b0,e8dd5e5a,Sofial L.,Re-Trabajo,14412.76,Negociación,80,2025-07-20,
+7a9a8ef5,311c6eb6,Carlos M.,Terminado,19699.86,Propuesta,60,2024-04-29,
+345af934,76da3ca0,Salvador T.,Re-Trabajo,20869.99,Prospecto,20,2025-07-28,
+52555c75,7f9d3e64,Matias A.,Maquinado,12698.88,Cerrado Ganado,100,2025-03-21,2025-06-08
+a6129a1c,ab61a7b1,Carlos M.,Re-Trabajo,8552.55,Cerrado Perdido,0,2025-08-21,2025-12-07
+8347f1da,3d225c30,Ana P.,Terminado,21984.22,Cerrado Perdido,0,2024-12-19,2025-01-09
+fb37afae,bbf483ce,Matias A.,Re-Trabajo,10030.43,Cerrado Ganado,100,2025-11-04,2026-01-31
+ea11905b,c51155ff,Matias A.,Terminado,18470.41,Cerrado Ganado,100,2025-08-11,2025-12-07
+0bb401e7,7de31a51,Matias A.,Maquinado,8644.96,Análisis,40,2024-12-16,
+42c21797,8c7e6f42,Matias A.,Terminado,35852.95,Cerrado Perdido,0,2025-04-12,2025-06-11
+b852b3cd,f75d1e3c,Carlos M.,Maquinado,31559.15,Cerrado Perdido,0,2025-08-27,2025-10-09
+54720d2d,c51155ff,Sofial L.,Maquinado,27208.63,Cerrado Ganado,100,2025-07-02,2025-07-22
+3ee82983,67814c1f,Sofial L.,Terminado,5134.25,Cerrado Ganado,100,2024-11-01,2025-02-20
+af521b94,e8dd5e5a,Matias A.,Terminado,33464.84,Cerrado Ganado,100,2025-09-13,2025-12-12
+7d1645a0,de8a774b,Sofial L.,Placas,5290.5,Cerrado Perdido,0,2025-03-06,2025-04-23
+cb8383f2,dc4ad56b,Matias A.,Re-Trabajo,28409.82,Prospecto,20,2025-11-04,
+8bea75c1,d918b3e5,Matias A.,Re-Trabajo,35621.69,Cerrado Ganado,100,2025-09-24,2026-01-14
+8ac97b01,e60fd420,Salvador T.,Re-Trabajo,49018.09,Cerrado Perdido,0,2025-08-05,2025-09-04
+08a8ac7f,989240ac,Carlos M.,Re-Trabajo,48612.96,Cerrado Ganado,100,2025-10-29,2025-12-01
+0c6b7074,a65e688e,Matias A.,Maquinado,27851.64,Propuesta,60,2025-10-31,
+a175a9c3,dc4ad56b,Salvador T.,Terminado,18991.63,Análisis,40,2025-04-30,
+02571851,c5f8bc16,Ana P.,Maquinado,15739.59,Cerrado Ganado,100,2024-10-16,2024-12-22
+0f79a8a7,20a04502,Salvador T.,Maquinado,21130.21,Cerrado Perdido,0,2025-07-31,2025-09-14
+9dd43675,49e2623d,Matias A.,Placas,35303.34,Cerrado Perdido,0,2025-09-11,2025-10-18
+01b158e9,458f1f19,Salvador T.,Re-Trabajo,25555.45,Cerrado Perdido,0,2025-10-17,2025-11-05
+04482a22,1d0bc9bd,Carlos M.,Terminado,41112.47,Prospecto,20,2025-10-28,
+fa3c1628,c73f6e1b,Carlos M.,Re-Trabajo,48502.87,Cerrado Ganado,100,2025-10-19,2026-01-17
+b2a6e468,48f1096d,Ana P.,Re-Trabajo,36348.55,Análisis,40,2024-10-19,
+e8e6e840,6bc4123e,Salvador T.,Maquinado,6722.29,Cerrado Ganado,100,2025-06-17,2025-10-04
+863e1f2a,81e5c9f6,Carlos M.,Maquinado,37302.73,Cerrado Perdido,0,2024-08-30,2024-10-03
+86c5d1d6,b3a7d0e0,Sofial L.,Re-Trabajo,22136.17,Cerrado Perdido,0,2025-01-03,2025-03-28
+cb80f288,0dde29a6,Salvador T.,Placas,23149.6,Cerrado Perdido,0,2024-07-17,2024-10-26
+67f1698c,c1581092,Sofial L.,Maquinado,10851.27,Análisis,40,2024-11-27,
+b27e1442,e60fd420,Ana P.,Terminado,14448.79,Cerrado Perdido,0,2025-07-25,2025-10-05
+d90dd19b,546e035a,Carlos M.,Maquinado,43208.5,Cerrado Ganado,100,2025-03-28,2025-04-25
+a65f7b8a,48bddb3e,Ana P.,Terminado,5368.4,Cerrado Ganado,100,2025-06-07,2025-06-19
+61177270,a0d572c8,Carlos M.,Maquinado,34977.53,Cerrado Ganado,100,2025-08-09,2025-11-10
+a301ec03,6dc7cac7,Ana P.,Placas,21452.45,Análisis,40,2025-04-26,
+7ff6b824,fc3e058b,Matias A.,Terminado,33404.56,Cerrado Perdido,0,2024-07-31,2024-11-15
+90dbfad6,7de31a51,Matias A.,Re-Trabajo,1517.74,Cerrado Ganado,100,2025-06-14,2025-07-02
+0ae4ac11,c5f8bc16,Carlos M.,Terminado,21552.74,Cerrado Perdido,0,2024-07-03,2024-10-03
+b139c476,67814c1f,Carlos M.,Maquinado,9243.84,Cerrado Perdido,0,2024-11-01,2024-11-21
+ec95b3ac,9082889b,Salvador T.,Maquinado,6255.2,Negociación,80,2025-10-25,
+e63949d4,9082889b,Salvador T.,Maquinado,46345.48,Cerrado Perdido,0,2025-09-07,2025-10-05
+2dea2d2d,bdab07e7,Matias A.,Placas,42370.72,Cerrado Ganado,100,2025-11-23,2026-01-19
+9647ff9f,a2b5b498,Salvador T.,Maquinado,25229.4,Cerrado Perdido,0,2025-07-13,2025-10-02
+d226a8b3,750cab75,Sofial L.,Placas,14008.51,Propuesta,60,2025-09-15,
+299656e2,2369b584,Carlos M.,Terminado,24381.05,Cerrado Ganado,100,2025-06-20,2025-07-09
+d9750f00,e238fe93,Sofial L.,Re-Trabajo,16586.82,Cerrado Perdido,0,2025-08-08,2025-09-01
+54ec3f33,6bc4123e,Sofial L.,Re-Trabajo,31525.95,Propuesta,60,2024-11-08,
+ca5e151b,2369b584,Salvador T.,Re-Trabajo,47468.33,Cerrado Ganado,100,2025-06-09,2025-09-16
+588a3f87,c51155ff,Matias A.,Maquinado,18894.97,Negociación,80,2024-10-11,
+d6b361e4,de1e994a,Salvador T.,Maquinado,40941.35,Cerrado Ganado,100,2025-05-23,2025-06-23
+9d264599,c2dff335,Sofial L.,Terminado,43524.83,Propuesta,60,2024-05-20,
+07958c1f,57021049,Sofial L.,Maquinado,40271.61,Cerrado Perdido,0,2025-11-07,2025-11-12
+735741e5,66d06371,Carlos M.,Placas,29964.88,Cerrado Ganado,100,2025-11-10,2026-01-05
+f0eebcce,f758dce2,Sofial L.,Placas,42206.09,Cerrado Perdido,0,2025-02-07,2025-04-07
+95fbe976,4d85e9c7,Salvador T.,Maquinado,5502.15,Cerrado Perdido,0,2025-08-27,2025-09-17
+9e5d9c7a,b4fb0eb9,Sofial L.,Terminado,17200.36,Cerrado Ganado,100,2025-11-03,2025-12-24
+12d15585,9c96e9ec,Carlos M.,Maquinado,14075.94,Cerrado Perdido,0,2025-01-22,2025-04-24
+b630794d,a0d572c8,Carlos M.,Placas,9162.06,Cerrado Ganado,100,2024-03-01,2024-05-25
+5111d31d,ee49f329,Salvador T.,Terminado,6589.12,Cerrado Ganado,100,2025-11-02,2026-02-27
+f165d779,48bddb3e,Salvador T.,Maquinado,23522.82,Cerrado Ganado,100,2025-08-01,2025-08-29
+450f69ee,10f1bc81,Matias A.,Terminado,23493.52,Cerrado Ganado,100,2025-04-28,2025-07-16
+6e54ac6d,bbf483ce,Ana P.,Maquinado,19553.99,Cerrado Perdido,0,2025-01-01,2025-04-24
+68759545,79e13cea,Ana P.,Terminado,5745.73,Cerrado Ganado,100,2025-05-21,2025-08-27
+8de1596c,faebcd19,Sofial L.,Maquinado,39926.77,Cerrado Perdido,0,2024-09-10,2024-10-11
+530ddda6,76da3ca0,Salvador T.,Maquinado,18578.57,Cerrado Ganado,100,2025-06-29,2025-09-12
+69ef74e3,bdd640fb,Sofial L.,Placas,21044.15,Cerrado Ganado,100,2025-10-08,2026-01-25
+e6b0da0a,750cab75,Salvador T.,Re-Trabajo,33510.37,Análisis,40,2025-10-09,
+3e245fbf,81e5c9f6,Ana P.,Placas,45432.77,Cerrado Ganado,100,2025-06-21,2025-10-11
+2b64777c,a2086977,Matias A.,Re-Trabajo,8801.05,Análisis,40,2025-11-08,
+7e3d5ee4,248d31ec,Ana P.,Terminado,2278.47,Cerrado Perdido,0,2024-06-25,2024-09-09
+46a56fe8,ff4625af,Carlos M.,Re-Trabajo,42928.35,Propuesta,60,2025-08-12,
+13b11e59,b4fb0eb9,Ana P.,Terminado,9997.17,Negociación,80,2025-09-17,
+b88cddde,3d959e3f,Sofial L.,Placas,13888.35,Análisis,40,2025-05-25,
+320f72c0,48bddb3e,Salvador T.,Maquinado,28045.52,Propuesta,60,2025-09-21,
+01bb819c,e8dd5e5a,Ana P.,Terminado,31137.41,Cerrado Ganado,100,2025-09-05,2025-11-06
+614077d3,5fbbf0b1,Carlos M.,Maquinado,32145.83,Cerrado Perdido,0,2025-04-13,2025-06-17
+d0c30018,de1e994a,Sofial L.,Terminado,42771.88,Cerrado Perdido,0,2025-09-07,2025-11-13
+4ce953a7,e6fdd7af,Salvador T.,Maquinado,31482.77,Cerrado Perdido,0,2025-10-30,2025-12-31
+336b00cb,67814c1f,Ana P.,Terminado,27618.44,Negociación,80,2025-01-11,
+65f30779,a0d572c8,Matias A.,Placas,18766.53,Cerrado Ganado,100,2025-01-04,2025-03-17
+a205e54f,d605e770,Ana P.,Terminado,35211.14,Cerrado Ganado,100,2025-03-07,2025-06-18
+3e0f84ce,c5f8bc16,Carlos M.,Terminado,11021.81,Cerrado Ganado,100,2025-05-06,2025-06-11
+c92e8c93,48bddb3e,Sofial L.,Re-Trabajo,22154.44,Negociación,80,2025-07-25,
+905881df,ff4625af,Ana P.,Terminado,12016.06,Cerrado Ganado,100,2025-09-29,2025-12-05
+2e0fb5b3,314d3441,Matias A.,Re-Trabajo,15186.8,Cerrado Ganado,100,2025-07-04,2025-10-22
+f3f81c31,49e2623d,Ana P.,Re-Trabajo,13204.51,Prospecto,20,2025-10-31,
+35ab8466,4fc77768,Salvador T.,Terminado,29500.14,Cerrado Perdido,0,2025-09-07,2025-09-18
+b15da72d,e8dd5e5a,Salvador T.,Terminado,35331.74,Cerrado Perdido,0,2025-09-02,2025-09-23
+cb881c32,2369b584,Sofial L.,Re-Trabajo,39548.92,Análisis,40,2024-10-07,
+a2224f96,dc4ad56b,Matias A.,Terminado,9149.82,Cerrado Ganado,100,2025-10-03,2025-12-26
+2775ee42,20a04502,Ana P.,Placas,41903.75,Cerrado Perdido,0,2025-08-16,2025-09-25
+72f60958,49e2623d,Matias A.,Placas,38969.03,Cerrado Perdido,0,2025-04-13,2025-06-30
+88cc4d49,ee49f329,Carlos M.,Maquinado,42605.29,Cerrado Ganado,100,2025-10-05,2025-12-05
+b113d50b,48f1096d,Carlos M.,Re-Trabajo,38454.47,Cerrado Ganado,100,2025-04-08,2025-04-25
+f7eae66e,7de31a51,Ana P.,Re-Trabajo,44970.31,Cerrado Ganado,100,2025-06-01,2025-08-04
+8972abbd,dd3f7d7e,Sofial L.,Maquinado,46532.13,Negociación,80,2024-11-18,
+1bffa279,458f1f19,Matias A.,Placas,34942.87,Cerrado Ganado,100,2025-10-28,2025-12-01
+5ae1dbad,546e035a,Carlos M.,Re-Trabajo,32583.91,Cerrado Ganado,100,2025-10-25,2025-11-25
+902f3465,8c7e6f42,Matias A.,Placas,27872.35,Negociación,80,2025-03-01,
+f780ef2f,e4a4474c,Salvador T.,Terminado,19598.6,Cerrado Perdido,0,2025-07-03,2025-09-23
+1b1f2eb1,d605e770,Ana P.,Terminado,23951.43,Cerrado Perdido,0,2025-03-17,2025-06-20
+82bbad84,989240ac,Matias A.,Maquinado,17873.02,Cerrado Perdido,0,2024-06-26,2024-07-15
+9342a09f,dc4ad56b,Matias A.,Re-Trabajo,38821.89,Negociación,80,2025-11-15,
+768b4f7e,0aba590e,Matias A.,Terminado,42821.04,Cerrado Ganado,100,2025-08-05,2025-08-14
+801e8690,98543881,Sofial L.,Re-Trabajo,10196.41,Análisis,40,2025-10-25,
+7b96e2d1,ff4625af,Sofial L.,Terminado,1135.96,Propuesta,60,2025-08-13,
+f633cc2d,287d06ca,Matias A.,Maquinado,22068.11,Cerrado Ganado,100,2024-05-10,2024-08-11
+baeb286b,20a04502,Carlos M.,Re-Trabajo,45626.23,Cerrado Ganado,100,2025-07-05,2025-10-27
+7490adeb,57eb89b1,Matias A.,Placas,11405.77,Cerrado Perdido,0,2024-05-26,2024-08-23
+79e5c9aa,de8a774b,Sofial L.,Maquinado,22773.68,Prospecto,20,2024-11-24,
+73d39457,d605e770,Ana P.,Maquinado,39649.63,Cerrado Ganado,100,2024-09-16,2024-10-29
+cf685878,dc4ad56b,Ana P.,Re-Trabajo,49006.51,Cerrado Ganado,100,2025-08-29,2025-10-11
+a5e15b55,6dc7cac7,Carlos M.,Re-Trabajo,18028.03,Cerrado Perdido,0,2024-10-05,2024-10-22
+ee0f65a8,81e5c9f6,Salvador T.,Re-Trabajo,4361.2,Cerrado Ganado,100,2024-07-06,2024-07-29
+28fea761,62fb26d7,Salvador T.,Terminado,14001.71,Cerrado Perdido,0,2025-02-10,2025-04-21
+76492e64,9ea556aa,Salvador T.,Maquinado,7746.55,Cerrado Ganado,100,2025-05-03,2025-07-14
+2f383b43,81e5c9f6,Salvador T.,Maquinado,14016.75,Cerrado Perdido,0,2024-10-10,2024-11-02
+6544e313,dc4ad56b,Salvador T.,Placas,39710.1,Cerrado Perdido,0,2025-07-09,2025-10-27
+3283daa4,e238fe93,Carlos M.,Maquinado,4170.34,Cerrado Ganado,100,2024-06-18,2024-09-27
+0123a348,b3a7d0e0,Matias A.,Maquinado,10869.22,Prospecto,20,2025-08-25,
+c0986750,48f1096d,Salvador T.,Re-Trabajo,24544.8,Cerrado Perdido,0,2025-09-09,2026-01-06
+df3a098a,a2086977,Carlos M.,Terminado,36186.12,Cerrado Ganado,100,2024-11-17,2024-11-25
+327375bf,b3a7d0e0,Matias A.,Maquinado,9887.74,Cerrado Ganado,100,2025-11-01,2026-02-19
+dcd5bfae,b4fb0eb9,Matias A.,Placas,46649.14,Análisis,40,2025-09-24,
+503b4078,759cde66,Carlos M.,Re-Trabajo,49750.46,Análisis,40,2025-05-20,
+9645f0e4,de8a774b,Matias A.,Terminado,10666.32,Cerrado Perdido,0,2025-09-23,2026-01-18
+753659ef,bbf483ce,Salvador T.,Re-Trabajo,38367.36,Cerrado Ganado,100,2025-01-10,2025-04-18
+ccf4ffb0,3d959e3f,Matias A.,Placas,18744.12,Negociación,80,2024-12-30,
+15b24e1d,e8dd5e5a,Matias A.,Maquinado,3563.65,Cerrado Perdido,0,2025-08-05,2025-11-11
+3d131a3d,f84f16b3,Salvador T.,Terminado,30286.46,Cerrado Ganado,100,2025-11-04,2025-12-04
+b1850eb8,2369b584,Ana P.,Terminado,20010.69,Cerrado Ganado,100,2025-04-09,2025-05-17
+98af5cca,a0d572c8,Carlos M.,Placas,17140.81,Análisis,40,2024-04-16,
+2f8d8ded,7227890e,Carlos M.,Placas,33063.1,Cerrado Perdido,0,2025-06-27,2025-07-23
+eb4e2281,c1581092,Carlos M.,Maquinado,26697.16,Cerrado Perdido,0,2025-02-05,2025-05-02
+8e0ec033,6dc7cac7,Sofial L.,Re-Trabajo,23180.1,Cerrado Ganado,100,2025-11-21,2026-02-04
+2fe5b140,750cab75,Ana P.,Terminado,48948.15,Cerrado Ganado,100,2025-09-18,2025-11-11
+0db977a9,989240ac,Ana P.,Maquinado,41913.56,Cerrado Ganado,100,2025-02-17,2025-04-19
+22f3f068,1d0bc9bd,Carlos M.,Maquinado,31779.32,Negociación,80,2025-09-24,
+8fc3d7d3,4806f804,Carlos M.,Terminado,22443.13,Propuesta,60,2024-12-04,
+af4847f0,9ea556aa,Ana P.,Terminado,16303.42,Cerrado Ganado,100,2025-09-15,2025-11-24
+71a0449d,a2086977,Sofial L.,Re-Trabajo,27116.04,Prospecto,20,2025-10-16,
+07e67cb0,314d3441,Ana P.,Terminado,47591.0,Cerrado Perdido,0,2025-08-29,2025-12-12
+398f569b,fc3e058b,Matias A.,Re-Trabajo,39007.37,Cerrado Perdido,0,2025-01-11,2025-04-20
+751303b9,c73f6e1b,Sofial L.,Placas,38188.23,Cerrado Perdido,0,2025-10-25,2026-01-12
+7eccdaf4,248d31ec,Carlos M.,Maquinado,29530.01,Análisis,40,2025-05-23,
+1d3ca5a4,e60fd420,Carlos M.,Maquinado,33013.31,Cerrado Ganado,100,2025-08-29,2025-09-27
+fdab3441,81e5c9f6,Salvador T.,Placas,10410.79,Cerrado Perdido,0,2024-11-07,2024-12-14
+0aa6fcb9,7227890e,Sofial L.,Terminado,14300.2,Cerrado Perdido,0,2025-09-24,2026-01-08
+37f25d36,311c6eb6,Sofial L.,Terminado,34934.06,Cerrado Perdido,0,2025-09-10,2025-10-10
+a757075b,311c6eb6,Salvador T.,Maquinado,37116.53,Análisis,40,2024-12-24,
+ffd2f491,9082889b,Sofial L.,Re-Trabajo,31296.67,Cerrado Perdido,0,2025-11-11,2025-11-23
+dcb91d5f,4ec3f970,Sofial L.,Maquinado,40392.72,Negociación,80,2024-01-03,
+1e0d02b5,2112507c,Salvador T.,Maquinado,43924.96,Cerrado Ganado,100,2024-09-11,2024-11-23
+96822e22,ab61a7b1,Sofial L.,Placas,26122.02,Cerrado Perdido,0,2025-08-04,2025-11-06
+a1fd4187,10f1bc81,Ana P.,Re-Trabajo,9735.42,Cerrado Perdido,0,2025-05-31,2025-08-01
+c8ebe27a,4ec3f970,Ana P.,Terminado,27908.94,Cerrado Perdido,0,2024-11-05,2024-11-30
+0f321333,a7a8f636,Sofial L.,Terminado,22982.29,Prospecto,20,2024-09-27,
+98cbaa52,0dde29a6,Ana P.,Placas,47484.78,Cerrado Ganado,100,2025-03-20,2025-05-26
+4aea1b8f,a4244f23,Sofial L.,Placas,25504.31,Cerrado Ganado,100,2025-02-19,2025-05-06
+dba6fdf8,98543881,Ana P.,Terminado,9360.33,Propuesta,60,2024-10-15,
+d0afb235,d918b3e5,Salvador T.,Placas,26928.38,Cerrado Ganado,100,2025-10-25,2026-01-01
+c9230c64,0dde29a6,Matias A.,Maquinado,28739.58,Análisis,40,2024-03-16,
+46feacd4,a3917c99,Carlos M.,Placas,33865.38,Análisis,40,2024-10-15,
+21f8072d,750cab75,Ana P.,Maquinado,24920.26,Propuesta,60,2025-11-04,
+d4176230,76da3ca0,Ana P.,Re-Trabajo,11615.71,Cerrado Ganado,100,2025-07-29,2025-11-23
+64880945,79e13cea,Ana P.,Placas,27241.33,Cerrado Perdido,0,2024-12-16,2025-01-06
+44caa5a2,c73f6e1b,Matias A.,Maquinado,44480.46,Cerrado Ganado,100,2025-09-18,2025-11-23
+135508d0,507b9072,Ana P.,Re-Trabajo,37433.65,Cerrado Ganado,100,2025-11-16,2026-01-26
+17d50f59,c2dff335,Sofial L.,Terminado,25123.74,Cerrado Perdido,0,2025-07-27,2025-09-30
+b1d81887,a2b5b498,Carlos M.,Maquinado,28065.04,Negociación,80,2025-08-16,
+53c93ae7,1933918c,Carlos M.,Maquinado,2406.97,Cerrado Ganado,100,2024-11-06,2024-11-28
+d8dff535,658b2523,Matias A.,Maquinado,35306.01,Propuesta,60,2025-05-11,
+755cee2a,f84f16b3,Ana P.,Placas,8242.9,Cerrado Perdido,0,2025-11-16,2026-02-09
+d9a09007,b4fb0eb9,Carlos M.,Placas,8796.94,Negociación,80,2025-10-29,
+37c3b3c9,0d01280f,Sofial L.,Placas,40124.18,Cerrado Ganado,100,2025-03-15,2025-04-20
+44bed486,48bddb3e,Matias A.,Placas,13615.57,Cerrado Ganado,100,2025-08-14,2025-10-03
+8c1c8b05,4d85e9c7,Carlos M.,Terminado,8786.63,Cerrado Perdido,0,2025-08-07,2025-10-06
+c9ce44bd,8c7e6f42,Matias A.,Terminado,45130.96,Cerrado Ganado,100,2025-02-01,2025-04-23
+0c648ca2,faebcd19,Ana P.,Placas,8943.51,Cerrado Ganado,100,2025-03-15,2025-04-27
+d6321d31,759cde66,Sofial L.,Maquinado,3289.61,Cerrado Ganado,100,2024-11-28,2024-12-21
+db8f0e32,57eb89b1,Matias A.,Placas,31350.14,Cerrado Ganado,100,2025-01-27,2025-05-22
+fde91c42,f84f16b3,Salvador T.,Maquinado,32917.19,Negociación,80,2025-07-27,
+e8cee951,5fbbf0b1,Carlos M.,Terminado,34731.92,Cerrado Perdido,0,2025-05-08,2025-07-13
+28b2bf21,314d3441,Matias A.,Maquinado,15970.97,Cerrado Ganado,100,2025-06-21,2025-06-29
+40198303,a2086977,Matias A.,Maquinado,31129.79,Cerrado Perdido,0,2025-04-30,2025-06-24
+a61f0b96,fc3e058b,Ana P.,Placas,42879.82,Cerrado Perdido,0,2024-09-26,2024-11-12
+4e35da80,a2086977,Ana P.,Placas,20783.54,Cerrado Perdido,0,2025-02-05,2025-03-27
+6de21429,57eb89b1,Ana P.,Maquinado,41139.71,Cerrado Perdido,0,2025-08-22,2025-10-22
+00473139,a3917c99,Matias A.,Re-Trabajo,17905.01,Cerrado Ganado,100,2025-04-23,2025-05-08
+97fb613a,c2dff335,Sofial L.,Placas,48939.76,Análisis,40,2024-09-03,
+0260a123,c51155ff,Carlos M.,Terminado,44727.63,Propuesta,60,2025-02-03,
+1edf3bfa,ec48bf55,Matias A.,Terminado,43193.43,Cerrado Ganado,100,2024-07-30,2024-08-16
+1221cddf,e4a4474c,Sofial L.,Maquinado,18275.66,Propuesta,60,2025-01-11,
+ce532ffd,e4a4474c,Matias A.,Maquinado,10789.85,Propuesta,60,2024-08-13,
+e1887eaf,4fc77768,Carlos M.,Terminado,47353.3,Análisis,40,2024-05-10,
+d038e153,e8dd5e5a,Matias A.,Placas,5962.24,Cerrado Ganado,100,2025-08-06,2025-11-17
+249204c7,9ea556aa,Matias A.,Terminado,18732.64,Prospecto,20,2024-11-30,
+9c3de1b0,458f1f19,Carlos M.,Terminado,2617.6,Cerrado Perdido,0,2025-09-07,2025-12-12
+b8f14e3c,e238fe93,Matias A.,Maquinado,44073.97,Análisis,40,2025-10-13,
+eb7e2e64,49e2623d,Salvador T.,Terminado,29456.38,Propuesta,60,2024-11-01,
+dc268108,4f199ec0,Matias A.,Placas,41798.95,Cerrado Perdido,0,2025-04-19,2025-08-13
+23d7e6a1,bb026576,Matias A.,Terminado,20750.85,Prospecto,20,2024-07-12,
+624fea4b,3d225c30,Carlos M.,Re-Trabajo,21532.97,Cerrado Perdido,0,2025-10-20,2025-12-04
+ca840003,314d3441,Carlos M.,Placas,24930.17,Análisis,40,2025-08-03,
+159152f2,c1581092,Carlos M.,Placas,46400.08,Cerrado Ganado,100,2024-05-11,2024-06-02
+b89f3a92,507b9072,Ana P.,Maquinado,42336.24,Cerrado Ganado,100,2025-10-11,2025-11-18
+b0c30a59,9082889b,Matias A.,Re-Trabajo,1014.51,Cerrado Ganado,100,2025-10-28,2025-12-28
+e03635fc,87d5b7be,Carlos M.,Maquinado,19528.21,Cerrado Ganado,100,2024-11-17,2024-12-07
+82701238,48bddb3e,Sofial L.,Maquinado,3966.44,Negociación,80,2025-07-20,
+a56b61e0,546e035a,Sofial L.,Re-Trabajo,16812.4,Cerrado Perdido,0,2025-03-14,2025-07-10
+f4655a21,ec48bf55,Ana P.,Placas,28496.8,Cerrado Perdido,0,2024-09-04,2024-10-30
+3db788a6,de8a774b,Sofial L.,Maquinado,13334.68,Cerrado Ganado,100,2024-12-19,2025-04-17
+873dc8bd,4d85e9c7,Matias A.,Terminado,26561.75,Cerrado Ganado,100,2025-10-15,2026-01-16
+51045a16,76da3ca0,Matias A.,Terminado,17362.07,Propuesta,60,2025-06-13,
+91816091,311c6eb6,Salvador T.,Re-Trabajo,41823.6,Prospecto,20,2024-05-10,
+2c3aacdc,0d01280f,Ana P.,Placas,49007.99,Prospecto,20,2025-08-01,
+12af97e4,a7a8f636,Matias A.,Terminado,30192.76,Cerrado Perdido,0,2025-04-20,2025-08-16
+431e930f,f79efd70,Carlos M.,Placas,8206.71,Cerrado Perdido,0,2025-04-17,2025-06-03
+f2dcb12b,658b2523,Salvador T.,Re-Trabajo,41415.6,Cerrado Ganado,100,2024-07-30,2024-11-12
+b66edbf4,a4244f23,Matias A.,Maquinado,41107.02,Cerrado Ganado,100,2025-08-17,2025-08-24
+b3a9dcaa,458f1f19,Ana P.,Re-Trabajo,15328.05,Cerrado Ganado,100,2025-10-19,2026-01-29
+89a3c811,20a04502,Salvador T.,Placas,10276.77,Cerrado Ganado,100,2025-09-05,2025-11-07
+4f560ed5,26c432f6,Salvador T.,Terminado,11521.9,Cerrado Ganado,100,2025-09-18,2025-11-26
+f96c9a0a,e60fd420,Ana P.,Re-Trabajo,30495.25,Cerrado Ganado,100,2025-02-27,2025-05-24
+6406face,a3917c99,Salvador T.,Placas,6625.86,Cerrado Ganado,100,2025-08-19,2025-12-10
+a65be22b,d918b3e5,Salvador T.,Placas,26091.45,Cerrado Perdido,0,2025-11-08,2025-12-12
+b2dc6c34,b4fb0eb9,Sofial L.,Maquinado,20096.16,Cerrado Perdido,0,2025-11-07,2026-01-01
+3d175712,4d85e9c7,Ana P.,Terminado,6770.02,Negociación,80,2025-09-20,
+6f3a5115,79e13cea,Matias A.,Re-Trabajo,43937.78,Prospecto,20,2024-07-21,
+0e165b12,750cab75,Salvador T.,Re-Trabajo,38682.7,Cerrado Perdido,0,2025-09-13,2026-01-03
+bd9bc648,81e5c9f6,Sofial L.,Terminado,24727.8,Cerrado Perdido,0,2024-12-09,2025-01-24
+23204ff5,4806f804,Matias A.,Maquinado,1193.68,Negociación,80,2024-11-19,
+f3f8dea4,f75d1e3c,Matias A.,Maquinado,40395.33,Cerrado Perdido,0,2025-10-24,2025-12-18
+d28fcf68,e4a4474c,Matias A.,Terminado,33870.72,Análisis,40,2024-11-13,
+207e863f,20a04502,Salvador T.,Terminado,31659.61,Cerrado Ganado,100,2025-11-05,2025-11-23
+bba1aed9,287d06ca,Salvador T.,Maquinado,33330.51,Cerrado Perdido,0,2025-09-23,2026-01-01
+55c34853,a2b5b498,Ana P.,Re-Trabajo,13480.74,Negociación,80,2025-04-27,
+4350ab06,ab61a7b1,Sofial L.,Placas,30320.79,Cerrado Ganado,100,2025-10-17,2025-12-15
+7487d772,a08dd21b,Matias A.,Terminado,41711.32,Cerrado Perdido,0,2025-10-14,2025-11-05
+dbff00b0,759cde66,Sofial L.,Re-Trabajo,21306.59,Cerrado Ganado,100,2025-05-28,2025-09-13
+414f4994,20a04502,Matias A.,Placas,47606.86,Cerrado Ganado,100,2025-10-07,2025-11-08
+ac93281a,4ec3f970,Carlos M.,Re-Trabajo,2504.59,Negociación,80,2025-07-31,
+82425912,e4a4474c,Ana P.,Placas,43398.04,Cerrado Ganado,100,2025-09-01,2025-12-01
+03254fbd,ff4625af,Ana P.,Maquinado,11283.54,Cerrado Perdido,0,2025-07-15,2025-08-04
+620af158,b00805cc,Sofial L.,Placas,48597.42,Análisis,40,2025-05-06,
+db842660,734a6ca3,Sofial L.,Re-Trabajo,8665.13,Propuesta,60,2025-02-28,
+b6ca1127,b00805cc,Matias A.,Re-Trabajo,37255.08,Cerrado Perdido,0,2025-02-14,2025-04-16
+6a8fcacb,ab61a7b1,Salvador T.,Re-Trabajo,35932.54,Cerrado Perdido,0,2025-10-13,2025-11-03
+92502e59,7de31a51,Carlos M.,Terminado,36335.0,Cerrado Perdido,0,2025-03-17,2025-05-16
+e6e59b32,ab61a7b1,Salvador T.,Maquinado,32583.83,Análisis,40,2025-09-25,
+8409c5ea,4ec3f970,Matias A.,Terminado,21007.59,Propuesta,60,2024-01-18,
+e0827f76,a4244f23,Matias A.,Maquinado,10130.43,Cerrado Perdido,0,2024-11-16,2025-02-15
+d847dc53,c73f6e1b,Ana P.,Placas,38504.63,Propuesta,60,2025-08-30,
+74ed5145,62fb26d7,Salvador T.,Terminado,41164.8,Cerrado Perdido,0,2025-04-03,2025-07-24
+9055a36f,248d31ec,Carlos M.,Terminado,13988.5,Negociación,80,2024-03-16,
+3e19fc1d,6fa17735,Matias A.,Maquinado,7157.59,Cerrado Ganado,100,2025-10-18,2026-01-24
+7e4ce29f,9ea556aa,Ana P.,Maquinado,28518.59,Cerrado Ganado,100,2025-08-14,2025-12-05
+e68373a3,287d06ca,Salvador T.,Re-Trabajo,37272.38,Cerrado Perdido,0,2025-10-11,2025-12-16
+268b84b6,e4a4474c,Salvador T.,Terminado,12073.29,Análisis,40,2025-04-17,
+3ba5bd76,ff4625af,Sofial L.,Placas,21776.62,Cerrado Perdido,0,2025-07-16,2025-10-05
+b186a5a8,7f9d3e64,Carlos M.,Placas,36144.03,Cerrado Ganado,100,2025-07-11,2025-11-06
+c2492e5e,e60fd420,Carlos M.,Terminado,38908.07,Cerrado Perdido,0,2025-01-31,2025-04-26
+ba2ac3d9,7f9d3e64,Sofial L.,Terminado,12694.02,Negociación,80,2025-10-09,
+fbad793f,546e035a,Sofial L.,Maquinado,27252.18,Cerrado Perdido,0,2025-04-29,2025-06-17
+0f554896,6bc4123e,Carlos M.,Maquinado,15922.22,Cerrado Perdido,0,2024-07-13,2024-08-27
+0b3d0c36,2369b584,Salvador T.,Re-Trabajo,45147.88,Cerrado Ganado,100,2024-12-03,2025-02-25
+69be173a,a7a8f636,Sofial L.,Maquinado,22100.23,Cerrado Perdido,0,2024-10-16,2024-12-03
+f97c6c3c,87d5b7be,Matias A.,Placas,27075.78,Cerrado Ganado,100,2025-08-06,2025-10-31
+8163b6ce,bb026576,Salvador T.,Maquinado,40973.83,Cerrado Ganado,100,2025-08-28,2025-10-19
+13281726,6fa17735,Ana P.,Placas,46808.67,Cerrado Perdido,0,2025-06-13,2025-07-14
+a995ecc3,26c432f6,Matias A.,Re-Trabajo,43335.58,Negociación,80,2025-09-08,
+d9d57b02,e8dd5e5a,Carlos M.,Maquinado,46279.79,Cerrado Ganado,100,2025-07-04,2025-08-16
+b362c0d2,f75d1e3c,Salvador T.,Re-Trabajo,3017.2,Prospecto,20,2025-05-27,
+73e7f042,0dde29a6,Matias A.,Maquinado,3751.09,Cerrado Perdido,0,2025-10-10,2025-11-10
+33e4f986,7de31a51,Matias A.,Re-Trabajo,19058.26,Cerrado Ganado,100,2025-02-08,2025-03-30
+1be5a4c3,b00805cc,Ana P.,Terminado,45569.61,Cerrado Perdido,0,2025-03-25,2025-04-27
+774f6354,20a04502,Ana P.,Re-Trabajo,9217.08,Cerrado Ganado,100,2025-07-19,2025-09-07
+5bb8b9c8,ff4625af,Matias A.,Placas,33114.29,Cerrado Perdido,0,2025-09-13,2025-10-25
+769de1e3,0aba590e,Sofial L.,Terminado,19990.71,Cerrado Perdido,0,2025-11-20,2026-01-31
+28597b34,a65e688e,Sofial L.,Placas,20202.48,Prospecto,20,2025-11-09,
+b46788bd,a3917c99,Ana P.,Terminado,22578.91,Cerrado Ganado,100,2025-08-19,2025-11-04
+d5ff2a1f,6bc4123e,Matias A.,Placas,15112.63,Cerrado Perdido,0,2025-07-05,2025-10-30
+3f8b4433,e60fd420,Ana P.,Terminado,5833.18,Cerrado Perdido,0,2025-06-04,2025-09-29
+ad5be3c8,49e2623d,Sofial L.,Placas,26767.73,Prospecto,20,2025-02-20,
+2c82989f,4882d73c,Carlos M.,Re-Trabajo,49135.93,Cerrado Ganado,100,2025-04-10,2025-06-10
+73c374a6,faebcd19,Sofial L.,Re-Trabajo,31390.86,Cerrado Ganado,100,2024-07-16,2024-11-07
+cdcc2d6a,a4244f23,Sofial L.,Placas,6378.8,Cerrado Perdido,0,2025-04-24,2025-07-30
+0fc98d2e,4fc77768,Matias A.,Terminado,5493.79,Negociación,80,2025-10-29,
+32b8d8aa,4fc77768,Carlos M.,Re-Trabajo,19767.34,Cerrado Perdido,0,2025-10-19,2026-02-14
+a15b2e18,bdd640fb,Salvador T.,Maquinado,18138.85,Cerrado Perdido,0,2025-09-22,2025-10-05
+eadc9960,a4244f23,Ana P.,Re-Trabajo,1350.31,Cerrado Ganado,100,2024-12-16,2024-12-28
+329fc417,bbf483ce,Salvador T.,Maquinado,45451.54,Cerrado Ganado,100,2024-12-11,2024-12-27
+e7b33085,de1e994a,Salvador T.,Maquinado,39958.95,Propuesta,60,2025-10-22,
+1f5df912,a0d572c8,Salvador T.,Placas,20106.28,Cerrado Perdido,0,2025-10-17,2026-02-09
+2b015723,0dde29a6,Ana P.,Terminado,20775.29,Análisis,40,2024-02-05,
+b9744cde,48bddb3e,Salvador T.,Maquinado,12891.14,Cerrado Perdido,0,2025-11-18,2025-12-25
+aee70ab2,57eb89b1,Salvador T.,Placas,38243.36,Prospecto,20,2024-12-08,
+e886a011,a0d572c8,Salvador T.,Maquinado,10491.71,Cerrado Perdido,0,2024-11-24,2025-02-18
+e2280fe3,a0d572c8,Sofial L.,Maquinado,47530.43,Cerrado Perdido,0,2024-05-22,2024-08-28
+9df2372e,a4244f23,Salvador T.,Re-Trabajo,41242.26,Propuesta,60,2025-02-04,
+69785221,ec48bf55,Matias A.,Terminado,20578.11,Cerrado Perdido,0,2025-01-30,2025-02-05
+479f6628,fc3e058b,Salvador T.,Re-Trabajo,2189.31,Cerrado Perdido,0,2025-09-24,2026-01-02
+a484e035,734a6ca3,Salvador T.,Placas,12067.24,Cerrado Ganado,100,2025-05-29,2025-08-24
+cd5ae324,ee49f329,Ana P.,Re-Trabajo,35564.35,Cerrado Ganado,100,2025-08-10,2025-09-14
+61eb64e6,48bddb3e,Salvador T.,Placas,18224.96,Negociación,80,2025-09-05,
+7c13f47a,cdbcc653,Carlos M.,Maquinado,6666.9,Cerrado Perdido,0,2025-08-21,2025-10-07
+5254aad3,e238fe93,Sofial L.,Terminado,8816.03,Cerrado Ganado,100,2025-02-18,2025-03-02
+51a1f5df,8c7e6f42,Carlos M.,Maquinado,8572.24,Cerrado Ganado,100,2025-08-20,2025-12-04
+cf89569d,f75d1e3c,Salvador T.,Maquinado,2933.19,Cerrado Perdido,0,2025-09-13,2025-10-14
+fdd4ff21,87d5b7be,Ana P.,Placas,41060.71,Cerrado Perdido,0,2025-09-05,2025-12-09
+95804c2a,49e2623d,Sofial L.,Maquinado,37026.88,Cerrado Ganado,100,2025-05-21,2025-08-06
+3f738f50,6fa17735,Salvador T.,Maquinado,19753.84,Cerrado Ganado,100,2025-07-03,2025-10-05
+ca8e858c,9ea556aa,Salvador T.,Placas,12799.36,Cerrado Perdido,0,2025-02-22,2025-03-19
+382b5b86,f79efd70,Salvador T.,Re-Trabajo,35089.52,Análisis,40,2025-05-02,
+636fa890,98543881,Carlos M.,Terminado,33211.96,Cerrado Perdido,0,2025-05-26,2025-07-04
+d86065a2,1d0bc9bd,Ana P.,Re-Trabajo,5599.23,Cerrado Ganado,100,2025-09-23,2025-11-20
+5168bbf2,67814c1f,Matias A.,Re-Trabajo,40222.58,Cerrado Ganado,100,2024-09-18,2025-01-06
+e9fa97e2,bdab07e7,Salvador T.,Terminado,19302.84,Cerrado Perdido,0,2025-11-24,2026-01-15
+f2933585,1223b513,Ana P.,Terminado,9128.27,Propuesta,60,2024-10-30,
+f2c84743,f79efd70,Carlos M.,Maquinado,3840.41,Propuesta,60,2025-11-17,
+e1b243cc,4882d73c,Ana P.,Re-Trabajo,2475.89,Prospecto,20,2025-02-26,
+7d8d3ddd,c1581092,Carlos M.,Re-Trabajo,13100.65,Cerrado Ganado,100,2025-02-09,2025-02-24
+9a069295,10f1bc81,Ana P.,Re-Trabajo,26862.23,Cerrado Perdido,0,2024-09-30,2024-11-15
+002ccb25,f758dce2,Ana P.,Maquinado,20040.19,Cerrado Ganado,100,2024-07-10,2024-08-23
+ce7334f2,4d85e9c7,Carlos M.,Re-Trabajo,4813.29,Cerrado Perdido,0,2025-08-10,2025-08-19
+eb3537a0,57eb89b1,Salvador T.,Terminado,27457.68,Cerrado Perdido,0,2024-05-17,2024-09-08
+0f3f0f48,314d3441,Matias A.,Terminado,14562.94,Cerrado Perdido,0,2025-10-29,2026-02-20
+eacf33a9,7f9d3e64,Carlos M.,Terminado,44872.2,Prospecto,20,2024-06-03,
+86bb42c7,ec48bf55,Ana P.,Re-Trabajo,41700.85,Cerrado Ganado,100,2024-11-11,2025-03-06
+b45c9a54,faebcd19,Sofial L.,Terminado,22569.31,Cerrado Ganado,100,2025-04-01,2025-05-31
+5628ddcd,faebcd19,Matias A.,Re-Trabajo,34327.73,Prospecto,20,2025-11-18,
+28522ca2,759cde66,Sofial L.,Re-Trabajo,26625.34,Análisis,40,2025-03-08,
+7cb923f5,dc4ad56b,Ana P.,Placas,28307.6,Cerrado Perdido,0,2025-10-14,2025-11-20
+f7ff88d4,b4fb0eb9,Ana P.,Terminado,49740.2,Cerrado Perdido,0,2025-11-01,2025-12-27
+9d1c0838,4d85e9c7,Sofial L.,Maquinado,2240.85,Cerrado Perdido,0,2025-11-08,2026-01-26
+96c56fe7,287d06ca,Matias A.,Re-Trabajo,28341.11,Cerrado Ganado,100,2025-10-22,2025-12-13
+b0416f19,b4fb0eb9,Matias A.,Terminado,31188.6,Propuesta,60,2025-08-01,
+0075d3d5,6dc7cac7,Carlos M.,Maquinado,6306.74,Cerrado Ganado,100,2025-02-21,2025-03-09
+c55523ed,ec48bf55,Matias A.,Terminado,41002.67,Cerrado Ganado,100,2025-10-11,2025-12-25
+5176a9d1,a2b5b498,Carlos M.,Placas,33516.37,Negociación,80,2025-10-19,
+a3bfe403,e8dd5e5a,Salvador T.,Maquinado,28917.46,Cerrado Ganado,100,2025-11-13,2026-01-25
+2401342a,f79efd70,Matias A.,Placas,46550.95,Propuesta,60,2025-11-16,
+58c88c48,507b9072,Ana P.,Placas,13779.78,Negociación,80,2025-10-19,
+f68c62e6,546e035a,Ana P.,Re-Trabajo,30351.57,Análisis,40,2025-05-04,
+a39c3bd5,4d85e9c7,Sofial L.,Terminado,43314.38,Cerrado Ganado,100,2025-05-08,2025-07-29
+35adde88,8c7e6f42,Salvador T.,Maquinado,27579.89,Propuesta,60,2025-07-10,
+41b455b8,e4a4474c,Sofial L.,Placas,3696.4,Cerrado Perdido,0,2024-08-29,2024-09-22
+0c53644b,48f1096d,Salvador T.,Placas,39771.89,Cerrado Perdido,0,2025-11-12,2025-12-25
+f8170ebf,a0d572c8,Matias A.,Terminado,10749.75,Cerrado Perdido,0,2024-10-23,2024-11-11
+e1bbb8cd,6fa17735,Sofial L.,Re-Trabajo,7068.6,Cerrado Perdido,0,2025-06-20,2025-07-06
+19f738cb,1d0bc9bd,Ana P.,Placas,14777.26,Negociación,80,2025-09-28,
+93fb71d0,734a6ca3,Ana P.,Re-Trabajo,30466.7,Cerrado Perdido,0,2025-11-18,2026-01-20
+29a3db6d,e8dd5e5a,Salvador T.,Re-Trabajo,12192.74,Cerrado Perdido,0,2025-10-13,2025-12-25
+088dbd82,1223b513,Ana P.,Maquinado,5424.79,Propuesta,60,2025-09-24,
+f3a02120,fc3e058b,Sofial L.,Placas,14014.64,Cerrado Ganado,100,2025-03-10,2025-06-18
+e34f76b4,67814c1f,Salvador T.,Placas,16651.69,Cerrado Ganado,100,2024-07-27,2024-08-17
+8c0b393a,e8dd5e5a,Carlos M.,Maquinado,46573.08,Cerrado Ganado,100,2025-08-20,2025-08-28
+9d17d218,fc3e058b,Salvador T.,Placas,8676.15,Cerrado Ganado,100,2024-10-04,2024-12-14
+f143e545,26c432f6,Ana P.,Placas,7859.63,Cerrado Perdido,0,2025-07-28,2025-09-08
+6f27c1b9,bdd640fb,Carlos M.,Placas,32450.16,Cerrado Ganado,100,2025-07-18,2025-11-06
+349ef4a9,4ec3f970,Salvador T.,Re-Trabajo,13292.45,Cerrado Ganado,100,2024-04-09,2024-07-18
+b8d77d2f,de8a774b,Ana P.,Placas,18075.73,Propuesta,60,2024-11-11,
+4811e562,311c6eb6,Salvador T.,Terminado,35435.25,Cerrado Perdido,0,2025-08-17,2025-08-23
+64953d5f,507b9072,Carlos M.,Terminado,22815.6,Análisis,40,2025-10-15,
+2751ab86,759cde66,Carlos M.,Terminado,30414.15,Cerrado Perdido,0,2025-06-21,2025-09-28
+166ecfe3,6dc7cac7,Ana P.,Re-Trabajo,28583.19,Cerrado Ganado,100,2024-08-19,2024-10-21
+99a7b99b,507b9072,Sofial L.,Terminado,10628.11,Propuesta,60,2025-10-15,
+34fadee1,a4244f23,Sofial L.,Placas,3684.04,Negociación,80,2025-10-20,
+14f9c394,d918b3e5,Salvador T.,Placas,22564.26,Cerrado Perdido,0,2025-08-20,2025-10-30
+c8edabdd,c51155ff,Ana P.,Maquinado,21300.21,Negociación,80,2025-08-14,
+a939ebd1,fc3e058b,Ana P.,Re-Trabajo,22635.0,Negociación,80,2025-05-28,
+6334fa2a,658b2523,Sofial L.,Terminado,24130.43,Cerrado Perdido,0,2024-09-06,2024-09-14
+5e911b91,57eb89b1,Ana P.,Terminado,22434.35,Cerrado Perdido,0,2024-06-28,2024-08-31
+7092d401,87d5b7be,Sofial L.,Maquinado,33123.23,Cerrado Ganado,100,2025-01-18,2025-05-07
+44c07a9a,66d06371,Sofial L.,Placas,9667.09,Negociación,80,2025-09-05,
+b24beb96,4882d73c,Carlos M.,Maquinado,14350.8,Cerrado Perdido,0,2025-07-22,2025-08-17
+5802b640,dd3f7d7e,Matias A.,Re-Trabajo,27453.47,Cerrado Ganado,100,2025-07-15,2025-10-14
+96f84ff7,dc4ad56b,Ana P.,Re-Trabajo,37870.93,Cerrado Ganado,100,2025-11-24,2026-01-24
+6319629b,76da3ca0,Salvador T.,Terminado,46847.73,Cerrado Ganado,100,2025-07-25,2025-10-11
+891778e8,4882d73c,Sofial L.,Terminado,25685.53,Análisis,40,2025-10-28,
+929d674d,57eb89b1,Matias A.,Re-Trabajo,45078.18,Cerrado Perdido,0,2025-07-23,2025-11-18
+6511e61a,26c432f6,Ana P.,Terminado,20299.8,Cerrado Ganado,100,2025-04-23,2025-07-11
+844e250b,29a3b2e9,Ana P.,Maquinado,11503.93,Cerrado Perdido,0,2025-08-17,2025-11-07
+9eca381b,57eb89b1,Salvador T.,Terminado,49290.9,Cerrado Perdido,0,2025-10-19,2025-12-12
+72f444ab,b3a7d0e0,Ana P.,Re-Trabajo,33234.56,Cerrado Perdido,0,2025-01-02,2025-01-10
+f8dfcc3a,658b2523,Matias A.,Maquinado,19681.88,Análisis,40,2024-06-27,
+0aeccec7,ee49f329,Sofial L.,Re-Trabajo,2333.09,Prospecto,20,2024-12-09,
+6f75ee8a,2369b584,Ana P.,Placas,37777.31,Prospecto,20,2025-07-09,
+25db5946,a65e688e,Ana P.,Placas,4507.49,Cerrado Ganado,100,2025-11-06,2025-12-23
+ba236c22,cdbcc653,Matias A.,Maquinado,32577.4,Cerrado Perdido,0,2025-11-21,2026-01-18
+8e6de263,20a04502,Sofial L.,Maquinado,6072.28,Cerrado Perdido,0,2025-11-22,2025-12-13
+46b518de,7227890e,Ana P.,Re-Trabajo,23480.56,Cerrado Ganado,100,2025-10-06,2025-10-17
+032a461a,6dc7cac7,Salvador T.,Terminado,14880.83,Cerrado Ganado,100,2025-08-15,2025-12-10
+6a18e5af,a65e688e,Ana P.,Terminado,25377.47,Cerrado Ganado,100,2025-11-22,2026-03-17
+952a5345,1223b513,Carlos M.,Terminado,48100.75,Cerrado Perdido,0,2025-02-02,2025-02-14
+c7903dc5,ab61a7b1,Matias A.,Terminado,43500.86,Propuesta,60,2025-06-11,
+891f4683,314d3441,Sofial L.,Placas,6745.56,Negociación,80,2025-06-15,
+439e754c,0dde29a6,Matias A.,Placas,15156.4,Cerrado Perdido,0,2025-11-16,2025-12-10
+9be4f19f,20a04502,Sofial L.,Terminado,41917.83,Análisis,40,2025-09-01,
+67294d3c,9082889b,Ana P.,Terminado,9845.29,Cerrado Perdido,0,2025-10-15,2025-12-12
+b193c8b8,26c432f6,Ana P.,Placas,3596.39,Cerrado Perdido,0,2025-03-18,2025-04-04
+e1035e1c,a2b5b498,Matias A.,Maquinado,21154.96,Negociación,80,2025-08-16,
+bee975da,1223b513,Ana P.,Maquinado,38530.22,Cerrado Ganado,100,2025-06-23,2025-09-21
+5f584603,10f1bc81,Salvador T.,Re-Trabajo,18382.56,Cerrado Ganado,100,2025-09-05,2025-10-15
+4d950273,4f199ec0,Matias A.,Maquinado,26168.91,Cerrado Ganado,100,2024-11-18,2024-12-21
+dbb54645,20a04502,Ana P.,Re-Trabajo,40046.76,Propuesta,60,2025-08-18,
+226716e3,8c7e6f42,Sofial L.,Re-Trabajo,40934.13,Cerrado Perdido,0,2025-01-07,2025-02-18
+c626e38f,b00805cc,Salvador T.,Terminado,29779.68,Análisis,40,2025-05-28,
+9adfe981,20a04502,Sofial L.,Placas,39876.62,Cerrado Perdido,0,2025-08-20,2025-08-30
+e9d6bb7e,c51155ff,Salvador T.,Placas,36023.07,Negociación,80,2024-10-20,
+84396fc0,ab61a7b1,Carlos M.,Placas,17523.52,Cerrado Ganado,100,2025-10-09,2025-10-28
